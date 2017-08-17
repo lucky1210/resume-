@@ -875,6 +875,8 @@ img#home_photo2 {
 }
 .demo_scale .conten{
 	padding: 10px;
+	width:210px;
+	float:left;
 }
 .demo_scale .conten span{
 	font-size:14px;
