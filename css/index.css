@@ -875,7 +875,6 @@ img#home_photo2 {
 }
 .demo_box li:hover .demo_box_hover {
 	background: rgba(0,0, 0, 0.8);
-	display:block;
 }
 .demo_scale img{
 	float: left;
