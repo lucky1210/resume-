@@ -865,16 +865,9 @@ img#home_photo2 {
 	background: rgba(0, 0, 0, 0.1);
 	-webkit-transition: background 2s;
 	transition: background 2s;
-	padding:10px;
-	display:none;
-}
-.demo_box_hover span{
-	font-size:14px;
-	font-weight:bold;
-	color:#fff;
 }
 .demo_box li:hover .demo_box_hover {
-	background: rgba(0,0, 0, 0.8);
+	background: rgba(0,0, 0, 0.2);
 }
 .demo_scale img{
 	float: left;
